@@ -1,0 +1,87 @@
+body{
+     background-image: url(imges/fond-noir2.webp);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+  
+
+
+
+
+h1{
+    color:rgb(31, 131, 131);  
+    font-size: 50px;
+    text-shadow: 0px 0px 10px aquamarine,
+                0px 0px 20px aquamarine,
+                0px 0px 25px aquamarine;
+    font-family: arial;
+    font-style: italic;
+    font-weight:1000;
+    text-align:center;
+    background-image: url(https://th.bing.com/th/id/R.f5771a85739c27900e6b85d862f378be?rik=wPXeVu6wtZ8GFg&pid=ImgRaw&r=0);
+    margin-left:20px;
+    margin-right:20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(50%);
+    
+                
+}
+ .ma-classe {
+    color:darkred;
+    font-weight: 1300;
+    
+
+ }
+
+ h2{
+    color:rgb(9, 140, 173);
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-weight:900;
+    margin-left: 100px;
+
+
+ }
+ 
+
+p{
+    color:darkcyan;
+    font-family: arial;
+    font-weight: 750;
+ 
+}
+.ma-classe2 {
+     color: aqua;
+     font-family:Arial, Helvetica, sans-serif;
+    
+
+}
+
+
+
+li{
+    color:yellowgreen;
+    
+}
+
+a:hover{
+     color:whitesmoke;
+    font-weight: 900;
+    text-shadow: 0px 0px 10px yellowgreen,
+                 0px 0px 20px yellowgreen,
+                 0px 0px 30px yellowgreen,
+                 0px 0px 50px yellowgreen;        
+
+}
+
+.ma-classe3{
+    text-align: center;
+    color:black;
+
+
+}
+a{
+    color:green;
+    font-weight: 850;
+}
